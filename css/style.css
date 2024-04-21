@@ -4,18 +4,20 @@ section{
     width: 300px;
     height: 400px;
 }
-#sad_cat {
+
+.sad_cat {
     width: 74%;
     height: 50%;
     background-repeat: no-repeat;
     background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe6N9qYpuZf8ZCBTHdf5FcZBZNL4HzIiPUHg&s);
     opacity: 1;
 }
-#happy_cat {
+.happy_cat {
     width: 100%;
     height: 40%;
     background-repeat: no-repeat;
     background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXzWgwMV7-weSaq4v-hbWUsgU5U-ur8vAHag&s);
+    opacity: 0;
 }
 
 
