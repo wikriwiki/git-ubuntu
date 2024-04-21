@@ -1,1 +1,1 @@
-alert("경고! 현재 이상 프로그램이 감지되었습니다. \n Secure System in host do not response.\n Are you Sure to conect this Ip?");
+alert("경고! 이상 프로그램이 감지되었습니다. \n Secure System in host do not response.\n Are you Sure to conect this Ip?");
